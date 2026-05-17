@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "server afk bot",
+    "username": "Nicoleserver",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "hardblood-NaKS.aternos.me",
-    "port": 19338,
+    "ip": "QuartzLantern.aternos.me",
+    "port": 55755,
     "version": "",
     "try-creative": true
   },
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "join the discord https://discord.gg/Atqq5eMw76",
